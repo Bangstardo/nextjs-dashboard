@@ -1,6 +1,9 @@
-wow this is the nextjs documentation project,
+A dashboard app using Nextjs, 
 
-the most fun I had since a while.
+Backend SQL , Vercel, Nodejs.
 
-oh god I might write something wild like fuck you.
-and I mean it wholeheartedly.
+Demo here:
+
+
+
+Thanks for reading this I owe you a cookie. 
